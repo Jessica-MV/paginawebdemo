@@ -1,0 +1,58 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+div#pagina{
+	width: 90%;
+	background: gray;
+	margin: 0px auto;
+	box-shadow: 0px 0px 10px rgba(0,0,0,.8);
+}
+#logo{
+	display: block;
+	width: 50%;
+	margin: 0px auto;
+}
+h1{
+	
+}
+
+nav ul li{
+	float: left;
+	list-style: none;
+	padding: 10px;
+	background: white;
+}
+nav ul li:hover{
+	background: black;
+	color:white;
+}
+
+nav ul li a{
+	text-decoration: none;
+	color: yellow;
+}
+nav ul li a:hover{
+	color: white;
+	background: blue;
+}
+h2{
+	text-align: center;
+
+}
+h3{
+	text-align: center;
+
+}
+.articulo{
+	width: 300px;
+
+}
+
+
+
+
+
+
+
+
